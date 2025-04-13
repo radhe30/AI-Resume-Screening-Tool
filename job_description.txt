@@ -1,0 +1,6 @@
+Job Title: Software Engineer
+Location: India
+Required Skills:
+- Python, Java, JavaScript
+- Full Stack Development experience
+- Excellent problem-solving skills
